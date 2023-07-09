@@ -1,16 +1,19 @@
-# firebase_multifactor_auth
+# Login con Infinity Scrolling
 
-A new Flutter project.
 
-## Getting Started
+## Login
 
-This project is a starting point for a Flutter application.
+Login con firestore y redireccionamiento a home
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<hr>
+Pagina de Logeo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Imagen Uno](img/cap1.png)
+
+
+<hr>
+Pagina home 
+
+![Imagen Uno](img/cap2.png)
+
