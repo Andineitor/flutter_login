@@ -7,13 +7,15 @@ Login con firestore y redireccionamiento a home
 
 
 <hr>
-Pagina de Logeo
+<b>
+- Pagina de Logeo
 
 ![Imagen Uno](img/cap1.png)
 
 
 <hr>
-Pagina home 
+<b>
+- Pagina home 
 
 ![Imagen Uno](img/cap2.png)
 
