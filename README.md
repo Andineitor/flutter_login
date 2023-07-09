@@ -1,14 +1,16 @@
 # Login con Infinity Scrolling
 
+Login con firestore y redireccionamiento a home
 
 ## Login
 
-Login con firestore y redireccionamiento a home
 
 
 <hr>
+
 <br>
 -- Pagina de Logeo
+
 <br>
 
 ![Imagen Uno](img/cap1.png)
