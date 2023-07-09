@@ -10,6 +10,7 @@ Login con firestore y redireccionamiento a home
 <br>
 -- Pagina de Logeo
 <br>
+
 ![Imagen Uno](img/cap1.png)
 
 
@@ -17,5 +18,6 @@ Login con firestore y redireccionamiento a home
 
 -- Pagina home 
 <br>
+
 ![Imagen Uno](img/cap2.png)
 
