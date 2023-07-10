@@ -20,3 +20,4 @@ Podemos observar que el proyecto cuenta con una funcionalidad de inicio de sesi√
 
 ![Imagen Uno](img/cap2.png)
 
+----
