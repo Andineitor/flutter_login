@@ -1,4 +1,4 @@
-![image](https://github.com/Andineitor/flutter_login/assets/85330514/9d21121f-5b4c-41b7-ab9d-8af172bc7003)# Login con Infinity Scrolling
+# Login con Infinity Scrolling
 
 Podemos observar que el proyecto cuenta con una funcionalidad de inicio de sesión (login) que redirecciona al usuario a la siguiente página, la cual incorpora la técnica de "infinity scrolling" o desplazamiento infinito. Esta técnica permite cargar y visualizar de manera continua contenido adicional a medida que el usuario se desplaza hacia abajo en la página, mejorando la experiencia de navegación al evitar la necesidad de cargar nuevas páginas o utilizar paginación tradicional.
 <hr>
@@ -8,6 +8,7 @@ Podemos observar que el proyecto cuenta con una funcionalidad de inicio de sesi�
 <br>
 
 <hr>
+
 ## Pagina de Logeo
 
 <br>
@@ -22,7 +23,9 @@ Podemos observar que el proyecto cuenta con una funcionalidad de inicio de sesi�
 
 <hr>
 
-## Pagina home 
+## Pagina Home
+
+<hr>
 <br>
 
 ![Imagen Uno](img/cap2.png)
@@ -30,10 +33,20 @@ Podemos observar que el proyecto cuenta con una funcionalidad de inicio de sesi�
 <br>
 
 <hr>
-##Pagina Infinite Scrolling
-![image](https://github.com/Andineitor/flutter_login/assets/85330514/7a400842-665f-401a-93cd-f0c5764cce5b)
+
+<hr>
+
+## Pagina Infinite Scrolling
+
+<hr>
+
+![image](https://github.com/Andineitor/flutter_login/assets/85330514/d57e00d1-faed-4f82-b29f-bb841bb59649)
+
 <br>
-![image](https://github.com/Andineitor/flutter_login/assets/85330514/64ed80ea-ee40-4811-9f39-f5a70bc60e70)
+
+
+
+
 
 
 
