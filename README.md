@@ -21,18 +21,7 @@ Podemos observar que el proyecto cuenta con una funcionalidad de inicio de sesi√
     
 ![image](https://github.com/Andineitor/flutter_login/assets/85330514/a62a1687-3c74-4973-81a5-45048b10b3cb)
 
-<hr>
 
-## Pagina Home
-
-<hr>
-<br>
-
-![Imagen Uno](img/cap2.png)
-
-<br>
-
-<hr>
 
 <hr>
 
