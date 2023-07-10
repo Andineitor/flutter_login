@@ -6,6 +6,8 @@ Podemos observar que el proyecto cuenta con una funcionalidad de inicio de sesi√
 ## Login
 
 <br>
+
+<hr>
 ## Pagina de Logeo
 
 <br>
@@ -27,6 +29,7 @@ Podemos observar que el proyecto cuenta con una funcionalidad de inicio de sesi√
 
 <br>
 
+<hr>
 ##Pagina Infinite Scrolling
 ![image](https://github.com/Andineitor/flutter_login/assets/85330514/7a400842-665f-401a-93cd-f0c5764cce5b)
 <br>
